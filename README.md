@@ -26,7 +26,7 @@ Hi there 👋 I'm Faycal
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,css,express,html,jquery,mongodb,mysql,Supabase,nodejs,postman,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,react,js,nextjs,css,express,html,jquery,mongodb,mysql,supabase,nodejs,postman,vscode," />
   </a>
 </p>
 
