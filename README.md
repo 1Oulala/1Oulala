@@ -11,6 +11,7 @@ Hi there 👋 I'm Faycal
 <br />
 <p align="left">
  <a href="www.linkedin.com/in/faycalkarasirwigema-swe/" target="_blank" rel="noopener noreferrer"> 
+  
   <img src="https://skillicons.dev/icons?i=linkedin", alt="Linkedin" height="40" style="vertical-align:top; margin:4px; margin-right:10px">
  </a>
  <a href="mailto:rwigemafayk@gmail.com"> 
@@ -25,7 +26,7 @@ Hi there 👋 I'm Faycal
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,Next,css,express,html,jquery,mongodb,mysql,Supabase,nodejs,postman,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,react,js,css,express,html,jquery,mongodb,mysql,Supabase,nodejs,postman,vscode," />
   </a>
 </p>
 
