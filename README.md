@@ -14,7 +14,8 @@ Hi there 👋 I'm Faycal
   <img src="https://skillicons.dev/icons?i=linkedin", alt="Linkedin" height="40" style="vertical-align:top; margin:4px; margin-right:10px">
  </a>
  <a href="mailto:rwigemafayk@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin: 4px; margin-left: 10px">
+
+   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
  </a>
 </p>
 
