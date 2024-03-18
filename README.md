@@ -35,7 +35,7 @@ Hi there 👋 I'm Faycal
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=1Oulala&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kssampson&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=1Oulala&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=1Oualal&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Oulala&hide=php&theme=tokyonight" />
